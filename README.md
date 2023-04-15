@@ -14,4 +14,4 @@ Aprendendo **Front-End** desde **23/01/2023**.
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htxe&show_icons=true&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ryan Campos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ryan+Campos)](https://git.io/typing-svg)
