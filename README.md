@@ -2,14 +2,14 @@
 
  **Front-End**
 
-# 🌱 Em busca de novos conhecimentos.
-# 📫 Contatos: Linkdin: https://www.linkedin.com/in/ryancamposs/
-#  ♦ PortFolio: https://portfolio-with-react-js.vercel.app/
+## 🌱 Em busca de novos conhecimentos.
+## 📫 Contatos: Linkedin: https://www.linkedin.com/in/ryancamposs/
+##  ♦ PortFolio: https://portfolio-with-react-js.vercel.app/
 
-- 💨HTML5 & CSS3
-- 💨JavaScript
-- 💨ReactJS
-- 💨Python (Automatização de tarefas).
+## 💨HTML5 & CSS3
+## 💨JavaScript
+## 💨ReactJS
+## 💨Python (Automatização de tarefas).
 <!--
 
 -->
