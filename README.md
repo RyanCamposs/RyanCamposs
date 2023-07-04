@@ -15,4 +15,4 @@
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ryan+Campos)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ryan+Campos)](https://git.io/typing-svg)
