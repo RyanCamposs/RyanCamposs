@@ -9,7 +9,6 @@
 ## 💨HTML5 & CSS3
 ## 💨JavaScript
 ## 💨ReactJS
-## 💨Python (Automatização de tarefas).
 <!--
 
 -->
