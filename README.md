@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C2A8&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Ryan+%F0%9F%91%8B;Analista+de+Dados+Júnior;Transformo+dados+brutos+em+decisões;SELECT+*+FROM+curiosidade+WHERE+vontade+%3E+0%3B" alt="Typing SVG" />
-
-<br>
 
 ![Status](https://img.shields.io/badge/status-aberto_a_oportunidades-00C2A8?style=for-the-badge)
 ![Foco](https://img.shields.io/badge/foco-dados_%26_BI-0F172A?style=for-the-badge)
@@ -61,16 +57,13 @@ flowchart LR
 
 ---
 
-## 🚀 Projetos em destaque
+## 📊 Dashboards
 
-> Os links entram assim que os repositórios estiverem polidos. Troque os `#` pelos endereços reais.
+> Projetos de análise de dados que já estão no ar. Clique para ver o repositório.
 
-| Projeto | O que faz | Stack |
-|:---|:---|:---|
-| 🧠 **[Plataforma de treino de SQL](#)** | Pratique consultas SQL com exercícios guiados e feedback por IA | `SQL` `Next.js` `NVIDIA NIM API` |
-| 🗣️ **[SpeakUp](#)** | App para praticar conversação em inglês usando a API do Claude | `React` `Claude API` |
-| 📈 **[Seu próximo projeto de dados](#)** | Análise completa: limpeza → SQL → dashboard | `Python` `SQL` `Power BI` |
-
+| Projeto | O que faz | Stack | Status |
+|:---|:---|:---|:---:|
+| 🛒 **[Dashboard de Vendas e Devoluções](https://github.com/RyanCamposs/dashboard-vendas-devolucoes)** | Dashboard interativo para analisar vendas, faturamento e devoluções por período, produto e loja. Mostra indicadores estratégicos, tendências, produtos de maior desempenho e pontos de atenção no processo comercial. | `Power BI` | ![Em produção](https://img.shields.io/badge/🟢_em_produção-22C55E?style=flat-square) |
 
 ---
 
