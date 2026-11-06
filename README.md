@@ -77,12 +77,11 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanCamposs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCamposs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
-> ⚠️ Substitua `SEU_USUARIO` pelo seu username do GitHub nas duas imagens acima.
 
 ---
 
