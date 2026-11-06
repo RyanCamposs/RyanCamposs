@@ -1,8 +1,7 @@
 
-
 ![Status](https://img.shields.io/badge/status-aberto_a_oportunidades-00C2A8?style=for-the-badge)
 ![Foco](https://img.shields.io/badge/foco-dados_%26_BI-0F172A?style=for-the-badge)
-![Modelo](https://img.shields.io/badge/trabalho-100%25_remoto-6366F1?style=for-the-badge)
+![Modelo](https://img.shields.io/badge/trabalho-presencial_%7C_híbrido_%7C_home_office-6366F1?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ryancamposs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancamposs/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-em_breve-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
@@ -69,7 +68,7 @@ flowchart LR
 
 ## 🎯 Agora
 
-- 🔭 Buscando minha primeira vaga como **Analista de Dados Júnior** (remoto)
+- 🔭 Buscando minha primeira vaga como **Analista de Dados Júnior** (presencial, híbrido ou home office)
 - 📚 Aprofundando **SQL avançado** (window functions, CTEs) e **modelagem no Power BI**
 - 🤝 Aberto a conversas, mentorias e trocas de ideia sobre dados
 
