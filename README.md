@@ -22,8 +22,8 @@ ryan = {
     "cargo":      "Analista de Dados Júnior",
     "formacao":   "Ciências Contábeis",
     "missao":     "Achar a história escondida dentro da planilha",
-    "combustivel": ["café", "curiosidade", "consultas bem otimizadas"],
-    "status":     "aprendendo algo novo todos os dias 🌱",
+    "combustivel": ["coca-cola", "curiosidade", "consultas bem otimizadas"],
+    "status":     "se esforçando para aprender algo novo todos os dias ",
 }
 
 def sobre_mim():
@@ -70,17 +70,6 @@ flowchart LR
 | 🧠 **[Plataforma de treino de SQL](#)** | Pratique consultas SQL com exercícios guiados e feedback por IA | `SQL` `Next.js` `NVIDIA NIM API` |
 | 🗣️ **[SpeakUp](#)** | App para praticar conversação em inglês usando a API do Claude | `React` `Claude API` |
 | 📈 **[Seu próximo projeto de dados](#)** | Análise completa: limpeza → SQL → dashboard | `Python` `SQL` `Power BI` |
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanCamposs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCamposs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
 
 
 ---
