@@ -1,17 +1,14 @@
-### Olá, bem vindo! 👋
+### Olá :)
 
- **Front-End**
+ **Analista de Dados Júnior**
 
 ## 🌱 Em busca de novos conhecimentos.
 ## 📫 Contatos: Linkedin: https://www.linkedin.com/in/ryancamposs/
-##  ♦ PortFolio: https://portfolio-git-main-htxe.vercel.app/
+##  ♦ PortFolio: 
 
-## 💨HTML5 & CSS3
-## 💨JavaScript
-## 💨ReactJS
-<!--
-
--->
+## 💨 SQL
+## 💨 EXCEL
+## 💨 PYTHON [PANDAS]
+## 💨 POWERBI
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ryan+Campos)](https://git.io/typing-svg)
