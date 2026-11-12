@@ -1,10 +1,12 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Ryan%20Campos&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Analista%20de%20Dados%20J%C3%BAnior%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descAlignY=72&descSize=16" width="100%" />
 
 ![Status](https://img.shields.io/badge/status-aberto_a_oportunidades-00C2A8?style=for-the-badge)
 ![Foco](https://img.shields.io/badge/foco-dados_%26_BI-0F172A?style=for-the-badge)
 ![Modelo](https://img.shields.io/badge/trabalho-presencial_%7C_híbrido_%7C_home_office-6366F1?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ryancamposs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancamposs/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-em_breve-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
@@ -12,65 +14,63 @@
 
 ## 🧭 Quem sou eu
 
+Estudante de **Ciências Contábeis (UNIR)** em transição para **Análise de Dados**. Uso SQL, Excel, Power BI e Python para transformar dados brutos em indicadores que ajudam a decidir.
+
+O diferencial da contabilidade: entendo **o negócio por trás do dado** — custos, margem, faturamento, DRE — e não só a ferramenta.
+
 ```python
 ryan = {
-    "cargo":      "Analista de Dados Júnior",
-    "formacao":   "Ciências Contábeis",
-    "missao":     "Achar a história escondida dentro da planilha",
-    "combustivel": ["coca-cola", "curiosidade", "consultas bem otimizadas"],
-    "status":     "se esforçando para aprender algo novo todos os dias ",
+    "cargo":    "Analista de Dados Júnior",
+    "formacao": "Ciências Contábeis — UNIR",
+    "base":     "Rondônia, Brasil",
+    "foco":     ["SQL", "Power BI", "Excel", "Python/Pandas"],
+    "missao":   "Achar a história escondida dentro da planilha",
 }
-
-def sobre_mim():
-    return "Gosto de números, mas gosto mais do que eles querem dizer."
 ```
-
-Formação em contabilidade + olhar analítico: entendo o **negócio por trás do dado**, não só o dado.
 
 ---
 
-## 🛠️ Arsenal
+## 🛠️ Ferramentas
 
 <div align="center">
 
-| Ferramenta | Pra que eu uso |
+| Ferramenta | Como eu uso |
 |:---:|:---|
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | Extrair, juntar e tratar dados direto da fonte |
-| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Análises rápidas, tabelas dinâmicas e fórmulas |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Limpeza, transformação e automação de dados |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Dashboards que contam uma história clara |
+| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | JOINs, agregações, subqueries e CTEs para extrair e cruzar dados |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Power Query, tabelas dinâmicas e análises rápidas |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Modelagem (esquema estrela), DAX e dashboards |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Limpeza, tratamento e análise exploratória |
 
 </div>
 
 ---
 
-## 🔄 Meu fluxo de trabalho
+## 🔄 Como eu trabalho
 
 ```mermaid
 flowchart LR
-    A[📥 Dado bruto] --> B[🧹 Limpeza<br/>Python · Pandas]
-    B --> C[🗄️ Consulta<br/>SQL]
+    A[📥 Dado bruto] --> B[🗄️ Extração<br/>SQL · Power Query]
+    B --> C[🧹 Tratamento<br/>Python · Pandas]
     C --> D[📊 Visualização<br/>Power BI · Excel]
     D --> E[💡 Decisão]
 ```
 
 ---
 
-## 📊 Dashboards
+## 📊 Projetos
 
-> Projetos de análise de dados que já estão no ar. Clique para ver o repositório.
-
-| Projeto | O que faz | Stack | Status |
+| Projeto | O que responde | Stack | Status |
 |:---|:---|:---|:---:|
-| 🛒 **[Dashboard de Vendas e Devoluções](https://github.com/RyanCamposs/dashboard-vendas-devolucoes)** | Dashboard interativo para analisar vendas, faturamento e devoluções por período, produto e loja. Mostra indicadores estratégicos, tendências, produtos de maior desempenho e pontos de atenção no processo comercial. | `Power BI` | ![Em produção](https://img.shields.io/badge/🟢_em_produção-22C55E?style=flat-square) |
+| 🛒 **[Dashboard de Vendas e Devoluções](https://github.com/RyanCamposs/dashboard-vendas-devolucoes)** | Como evoluem vendas, faturamento e devoluções por período, produto e loja? Quais produtos puxam o resultado e onde o processo comercial perde dinheiro? | `Power BI` `DAX` | ![Concluído](https://img.shields.io/badge/concluído-22C55E?style=flat-square) |
+| 📦 **Análise de E-commerce — Olist** | Análise de pedidos, pagamentos, clientes e avaliações da base pública da Olist (e-commerce brasileiro). | `Excel` `Power Query` | ![Em andamento](https://img.shields.io/badge/em_andamento-F59E0B?style=flat-square) |
 
 ---
 
 ## 🎯 Agora
 
-- 🔭 Buscando minha primeira vaga como **Analista de Dados Júnior** (presencial, híbrido ou home office)
-- 📚 Aprofundando **SQL avançado** (window functions, CTEs) e **modelagem no Power BI**
-- 🤝 Aberto a conversas, mentorias e trocas de ideia sobre dados
+- 🔭 Buscando minha primeira vaga como **Analista de Dados Júnior**
+- 📚 Estudando **SQL avançado** (window functions, CTEs) e **modelagem no Power BI**
+- 🐍 Evoluindo em **Python/Pandas** para análise exploratória
 
 ---
 
